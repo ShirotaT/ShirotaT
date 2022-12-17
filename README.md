@@ -14,7 +14,7 @@ My name is Jibril from Bandung, Indonesia.
 - [Email](mailto:jibrilhandoyo@gmail.com)
 
 
-![](https://komarev.com/ghpvc/?username=ShirotaT&color=blueviolet&style=plastic&label=visitors)
+![](https://komarev.com/ghpvc/?username=ShirotaT&color=blueviolet&style=plastic&label=visitors&style=for-the-badge)
 
 <!--
 **ShirotaT/ShirotaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
