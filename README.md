@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello there 👋
+
+![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
+
+My name is Jibril. 
+
+🌱 I'm currently learning Data Analyst from Practicum Indonesia Bootcamp. 
+
+😄 Feel free to contact me to my personal email. Thanks for visiting my GitHub profile.
+
+📫 How to reach me: jibrilhandoyo@gmail.com
+
+![](https://komarev.com/ghpvc/?username=ShirotaT)
 
 <!--
 **ShirotaT/ShirotaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
