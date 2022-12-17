@@ -3,7 +3,7 @@
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
 [Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
-My name is Jibril. 
+My name is Jibril from Indonesia. 
 
 🌱 I'm currently learning Data Analyst from Practicum Indonesia Bootcamp. 
 
