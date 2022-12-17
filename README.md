@@ -5,9 +5,9 @@
 
 My name is Jibril from Indonesia. 
 
-🌱 I'm currently learning Data Analyst from Practicum Indonesia Bootcamp. 
+🌱 I'm currently studying Data Analyst from Practicum Indonesia Bootcamp. 
 
-😄 Feel free to contact me to my personal email. Thanks for visiting my GitHub profile.
+😄 Feel free to contact me on my personal email. Thanks for visiting my GitHub profile.
 
 📫 How to reach me: jibrilhandoyo@gmail.com
 
