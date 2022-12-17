@@ -10,11 +10,11 @@ My name is Jibril from Bandung, Indonesia.
 😄 Feel free to contact me on my personal email. Thanks for visiting my GitHub profile.
 
 ### 📫 How to reach me:
-- [linkedin](https://www.linkedin.com/in/mjibrilhandoyo/)
-- [email](mailto:jibrilhandoyo@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/mjibrilhandoyo/)
+- [Email](mailto:jibrilhandoyo@gmail.com)
 
 
-![](https://komarev.com/ghpvc/?username=ShirotaT)
+![](https://komarev.com/ghpvc/?username=ShirotaT&color=blueviolet&style=plastic&label=VISITORS)
 
 <!--
 **ShirotaT/ShirotaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
