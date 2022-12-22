@@ -3,11 +3,20 @@
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
 [Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
-My name is Jibril from Bandung, Indonesia. 
+Welcome to my Data Analyst portfolio! I am a beginner in the field of data analysis, but I am excited to learn and grow in my skills. I have a strong foundation in SQL and Python, and I am eager to apply these skills to real-world data problems.
 
 🌱 I'm currently studying Data Analyst from Practicum Indonesia Bootcamp. 
 
-😄 Feel free to contact me on my personal email. Thanks for visiting my GitHub profile.
+## Skills
+* Proficiency in SQL and Python for data manipulation and analysis
+* Experience with data visualization tools such as Tableau and Matplotlib
+* Basic understanding of statistical techniques and machine learning algorithms
+* Strong problem solving and communication skills
+
+## Contact
+I am always looking for opportunities to learn and grow as a data analyst. If you have any suggestions or would like to collaborate on a project, please don't hesitate to reach out! You can find my contact information on my LinkedIn profile.
+
+Thanks for visiting my GitHub profile.
 
 ### 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/mjibrilhandoyo/)
