@@ -5,7 +5,7 @@
 
 Welcome to my Data Analyst portfolio! I am a beginner in the field of data analysis, but I am excited to learn and grow in my skills. I have a strong foundation in SQL and Python, and I am eager to apply these skills to real-world data problems.
 
-🌱 I'm currently studying Data Analyst from Practicum Indonesia Bootcamp. 
+🌱 I'm currently studying Data Analyst at Practicum Indonesia Bootcamp. 
 
 ## Skills
 * Proficiency in SQL and Python for data manipulation and analysis
