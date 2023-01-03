@@ -36,7 +36,7 @@ Thanks for visiting my GitHub profile.
   </a>
   
   <a href="mailto:jibrilhandoyo@gmail.com">
-    <img alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+    <img alt="Gmail" width="102" hight="102" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
   </a>  
   
 
