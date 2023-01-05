@@ -14,21 +14,18 @@ Welcome to my Data Analyst portfolio! I am a beginner in the field of data analy
 * Basic understanding of statistical techniques and machine learning algorithms
 * Strong problem solving and communication skills
 
+ <p align="center">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+ 
 ## Contact
 I am always looking for opportunities to learn and grow as a data analyst. If you have any suggestions or would like to collaborate on a project, please don't hesitate to reach out! You can find my contact information on my LinkedIn profile.
 
 Thanks for visiting my GitHub profile.
   
   ![](https://komarev.com/ghpvc/?username=ShirotaT&color=blueviolet&style=for-the-badge&label=visitors)
-  
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
 
 
 ### 📫 How to reach me:
@@ -51,14 +48,10 @@ Thanks for visiting my GitHub profile.
     <img alt="Gmail" width="102" hight="102" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
   </a>  
   
+## Stats
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<p align="right"><a href="http://www.github.com/ShirotaT"><img src="https://github-readme-stats.vercel.app/api?username=ShirotaT&show_icons=true&hide=issues,contribs&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShirotaT's GitHub stats" /></a>
-
-<p align="right"> <a href="http://www.github.com/ShirotaT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShirotaT&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> </p>
+<p align="left"><a href="http://www.github.com/ShirotaT"><img src="https://github-readme-stats.vercel.app/api?username=ShirotaT&show_icons=true&hide=issues,contribs&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShirotaT's GitHub stats" /></a> 
+ <a href="http://www.github.com/ShirotaT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShirotaT&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> </p>
 
 <a href="http://www.github.com/ShirotaT"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShirotaT&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
