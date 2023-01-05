@@ -1,4 +1,6 @@
-## Hello there 👋
+Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+==============================================================================================================================
+
 <p align="center"> <img src="/MeagerHardtofindAlbertosaurus-size_restricted.gif"/>
  
 
@@ -18,6 +20,16 @@ I am always looking for opportunities to learn and grow as a data analyst. If yo
 Thanks for visiting my GitHub profile.
   
   ![](https://komarev.com/ghpvc/?username=ShirotaT&color=blueviolet&style=for-the-badge&label=visitors)
+  
+
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+
 
 ### 📫 How to reach me:
 
@@ -40,7 +52,17 @@ Thanks for visiting my GitHub profile.
   </a>  
   
 
+### Badges
 
+<b>My GitHub Stats</b>
+
+<p align="right"><a href="http://www.github.com/ShirotaT"><img src="https://github-readme-stats.vercel.app/api?username=ShirotaT&show_icons=true&hide=issues,contribs&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShirotaT's GitHub stats" /></a>
+
+<p align="right"> <a href="http://www.github.com/ShirotaT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShirotaT&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> </p>
+
+<a href="http://www.github.com/ShirotaT"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShirotaT&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/ShirotaT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirotaT&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
  
 <!--
