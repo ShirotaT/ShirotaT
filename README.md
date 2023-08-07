@@ -51,6 +51,11 @@ Thanks for visiting my GitHub profile.
     <img alt="Gmail" width="102" hight="102" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
   </a>  
   
+
+ 
+<!--
+**ShirotaT/ShirotaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## Stats
 
 <p align="left"><a href="http://www.github.com/ShirotaT"><img src="https://github-readme-stats.vercel.app/api?username=ShirotaT&show_icons=true&hide=issues,contribs&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShirotaT's GitHub stats" /></a>
@@ -62,9 +67,6 @@ Thanks for visiting my GitHub profile.
 
 <a href="https://github.com/ShirotaT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirotaT&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
- 
-<!--
-**ShirotaT/ShirotaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
