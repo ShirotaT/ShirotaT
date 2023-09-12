@@ -6,13 +6,14 @@ Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-078
 
 Welcome to my Data Analyst portfolio! I am a beginner in the field of data analysis, but I am excited to learn and grow in my skills. I have a strong foundation in SQL and Python, and I am eager to apply these skills to real-world data problems.
 
-🌱 I'm currently studying Data Analyst at Practicum Indonesia Bootcamp. 
+🌱 I'm Graduated Data Analyst at Tripileten (formerly Practicum) Indonesia Professional Bootcamp. 
 
 ## Skills
 * Proficiency in SQL and Python for data manipulation and analysis
 * Experience with data visualization tools such as Tableau and Matplotlib
 * Basic understanding of statistical techniques and machine learning algorithms
 * Strong problem solving and communication skills
+* Basic understanding in A/B Testing 
 
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
